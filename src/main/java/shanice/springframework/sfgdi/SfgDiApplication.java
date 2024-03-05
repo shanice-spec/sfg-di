@@ -1,9 +1,9 @@
-package guru.springframework.sfgdi;
+package shanice.springframework.sfgdi;
 
-import guru.springframework.sfgdi.controllers.ConstructorInjectedController;
-import guru.springframework.sfgdi.controllers.MyController;
-import guru.springframework.sfgdi.controllers.PropertyInjectedController;
-import guru.springframework.sfgdi.controllers.SetterInjectedController;
+import shanice.springframework.sfgdi.controllers.ConstructorInjectedController;
+import shanice.springframework.sfgdi.controllers.MyController;
+import shanice.springframework.sfgdi.controllers.PropertyInjectedController;
+import shanice.springframework.sfgdi.controllers.SetterInjectedController;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;

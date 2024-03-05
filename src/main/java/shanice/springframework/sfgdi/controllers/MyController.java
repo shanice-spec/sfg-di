@@ -1,10 +1,7 @@
-package guru.springframework.sfgdi.controllers;
+package shanice.springframework.sfgdi.controllers;
 
 import org.springframework.stereotype.Controller;
 
-/**
- * Created by jt on 12/26/19.
- */
 @Controller
 public class MyController {
 
